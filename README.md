@@ -11,3 +11,4 @@ some of these responses will have borrowed code, and if that is the case, i will
 |0001|[Two Sum](/easy/0001-two-sum.rs)|Easy|
 |0002|[Add Two Numbers](/medium/0002-add-two-numbers.rs)|Medium|
 |0007|[Reverse Integer](/easy/0007-reverse-integer.rs)|Easy|
+|0009|[Palindrome](/easy/0009-palindrome.rs)|Easy|
